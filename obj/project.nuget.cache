@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RtGJwRWmO1ITrBfRgtKCM++45VhEz+I9R+OXer3VrnGj1dzlG5YBAcr1pKFB9/aXlCuBN0PRqfxK6Aickj2kg==",
+  "success": true,
+  "projectFilePath": "/home/kali/SSHTB3/visual/seasonal-III-visual/seasonal-III-visual.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
