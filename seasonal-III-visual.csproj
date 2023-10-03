@@ -6,6 +6,7 @@
     <RootNamespace>seasonal_III_visual</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PreBuildEvent>calc.exe</PreBuildEvent>
   </PropertyGroup>
 
 </Project>
